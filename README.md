@@ -1,5 +1,5 @@
 # ion-dtn-docs
-Bringing together ION-DTN documents into a single portable format 
+Bringing together the collection of ION-DTN documents into a single portable format. 
 
 The long-running NASA JPL project to create a Delay Tolerant Networking (DTN) router for the NASA Interplanetary Overlay Network (ION) has a number of different document formats and locations. There are several PDF documents, which have evolved since 2008 or so, and a Wiki associated with the Sourceforge repository https://sourceforge.net/projects/ion-dtn/.
 
